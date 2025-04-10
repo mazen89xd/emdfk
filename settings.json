@@ -1,47 +1,51 @@
 {
-  "TOKEN": "MTM1MTMwMDU1NjM3MDQ4MTIxMw.GiZUPb.eGh5HupdrgLOUMLYRnzc2jGOOn92gKlMlJpNoY",
-  "CLIENT_ID": "1351300556370481213",
-  "STAFF_ROLE_ID": "1344565994454122587",
-  "HIGHER_ROLE_ID": "1345023981199163444",
-  "TRANSCRIPT_CHANNEL_ID": "1357984726861742110",
-  "ENABLE_TRANSCRIPT": true,
-  "IMAGE_URL": "https://cdn.discordapp.com/attachments/1346836716236832889/1352077990749540513/484485451_731087466157088_6583599197822472095_n.png?ex=67dcb441&is=67db62c1&hm=5022e834bc2477439bb1dd07b4399a0c6ade437e197fed5c6db91fbf2431e63a",
-  "THUMBNAIL_URL": "https://cdn.discordapp.com/attachments/1346836716236832889/1352078145766953150/a5fea43848cb7d4fef774f3688987c44.png?ex=67dcb466&is=67db62e6&hm=705ceba9558135710aa3f3afe115118d28b4ab92fb7c412bfef24ef5ed74b5c0&",
-  "TICKET_IMAGE_URL": "https://cdn.discordapp.com/attachments/1346836716236832889/1352078095288373339/Screenshot_2025-03-05_151253.png?ex=67dd5d1a&is=67dc0b9a&hm=778b9752080b91d2f7ee519dbc986d36253cc8431c71d299b2e1b055dd2d8b43&",
-  "USE_BUTTONS": false,
-  "PANEL_TITLE": "اهلا بك في الدعــــــم الفنــــــي",
-  "PANEL_DESCRIPTION": "اختر نوع التذكرة:",
-  "PANEL_COLOR": "#00ff00",
-  "TICKET_MESSAGE": "・هلا وغلا ي غالي 🗿\r\n・نورت 😁\r\n・الرجاء طرح ما تريد حتى يصل👍\r\n・الرجاء عدم المنشن ✖️",
-  "TICKET_TYPES": [
-    {
-      "label": "Support〢الدعم الفني",
-      "emoji": "1347940855486611517",
-      "description": "هنا لعرض مشكلتك او استلام جائزتك الخ...",
-      "value": "support",
-      "prefix": "دعم-فني",
-      "category": "1344566443110301716"
-    },
-    {
-      "label": "Report〢ابلاغ",
-      "emoji": "1347932969553362945",
-      "description": "هنا للابلاغ عن عضو او اداري الخ..",
-      "value": "report",
-      "prefix": "بلاغ",
-      "category": "1353832581975507006"
-    },
-    {
-      "label": "Buy〢شراء",
-      "emoji": "1069042925897531516",
-      "description": "هنا لشراء الرتب ، الاعلانات ، بوتات الخ...",
-      "value": "buy",
-      "prefix": "شراء",
-      "category": "1353832667862401157"
-    }
-  ],
-  "CLAIM_EMBED_TITLE": "Claim Ticket",
-  "CLAIM_EMBED_DESCRIPTION": "تم استلام التذكرة بواسطة: {claimer}  \r\n\r\n{owner}",
-  "CLAIM_EMBED_COLOR": "#6217ad",
-  "CLAIM_EMBED_FOOTER": "{date}",
-  "CLAIM_EMBED_FOOTER_ICON": ""
+    "TOKEN": "MTM1MTMwMDU1NjM3MDQ4MTIxMw.GJ6aev.X5-RQAYNL60NOwMpoK6El2pm9XxuIacmkE_-iU",
+    "CLIENT_ID": "1351300556370481213",
+    "STAFF_ROLE_ID": "1344565994454122587",
+    "HIGHER_ROLE_ID": "1345023981199163444",
+    "TRANSCRIPT_CHANNEL_ID": "1357984726861742110",
+    "ENABLE_TRANSCRIPT": true,
+    "IMAGE_URL": "https://cdn.discordapp.com/attachments/1346836716236832889/1352077990749540513/484485451_731087466157088_6583599197822472095_n.png?ex=67dcb441&is=67db62c1&hm=5022e834bc2477439bb1dd07b4399a0c6ade437e197fed5c6db91fbf2431e63a",
+    "THUMBNAIL_URL": "https://cdn.discordapp.com/attachments/1346836716236832889/1352078145766953150/a5fea43848cb7d4fef774f3688987c44.png?ex=67dcb466&is=67db62e6&hm=705ceba9558135710aa3f3afe115118d28b4ab92fb7c412bfef24ef5ed74b5c0&",
+    "TICKET_IMAGE_URL": "https://cdn.discordapp.com/attachments/1346836716236832889/1352078095288373339/Screenshot_2025-03-05_151253.png?ex=67dd5d1a&is=67dc0b9a&hm=778b9752080b91d2f7ee519dbc986d36253cc8431c71d299b2e1b055dd2d8b43&",
+    "USE_BUTTONS": false,
+    "PANEL_TITLE": "اهلا بك في الدعــــــم الفنــــــي",
+    "PANEL_DESCRIPTION": "اختر نوع التذكرة:",
+    "PANEL_COLOR": "#00ff00",
+    "TICKET_MESSAGE": "・هلا وغلا ي غالي 🗿\r\n・نورت 😁\r\n・الرجاء طرح ما تريد حتى يصل👍\r\n・الرجاء عدم المنشن ✖️",
+    "TICKET_TYPES": [
+        {
+            "label": "Support〢الدعم الفني",
+            "emoji": "1347940855486611517",
+            "description": "هنا لعرض مشكلتك او استلام جائزتك الخ...",
+            "value": "support",
+            "prefix": "دعم-فني",
+            "category": "1344566443110301716"
+        },
+        {
+            "label": "Report〢ابلاغ",
+            "emoji": "1347932969553362945",
+            "description": "هنا للابلاغ عن عضو او اداري الخ..",
+            "value": "report",
+            "prefix": "بلاغ",
+            "category": "1353832581975507006"
+        },
+        {
+            "label": "Buy〢شراء",
+            "emoji": "1069042925897531516",
+            "description": "هنا لشراء الرتب ، الاعلانات ، بوتات الخ...",
+            "value": "buy",
+            "prefix": "شراء",
+            "category": "1353832667862401157"
+        }
+    ],
+    "CLAIM_EMBED_TITLE": "Claim Ticket",
+    "CLAIM_EMBED_DESCRIPTION": "تم استلام التذكرة بواسطة: {claimer}  \r\n\r\n{owner}",
+    "CLAIM_EMBED_COLOR": "#6217ad",
+    "CLAIM_EMBED_FOOTER": "{date}",
+    "CLAIM_EMBED_FOOTER_ICON": "",
+    "REQUEST_EMBED_TITLE": "undefined",
+    "REQUEST_EMBED_DESCRIPTION": "undefined",
+    "REQUEST_EMBED_COLOR": "undefined",
+    "REQUEST_EMBED_FOOTER": "undefined"
 }
